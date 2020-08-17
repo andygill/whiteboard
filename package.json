@@ -1,0 +1,23 @@
+{
+  "name": "whiteboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "whiteboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andygill/whiteboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andygill/whiteboard/issues"
+  },
+  "homepage": "https://github.com/andygill/whiteboard#readme",
+  "dependencies": {
+    "color-convert": "^2.0.1",
+    "pngjs": "^5.0.0"
+  }
+}
